@@ -1,6 +1,6 @@
  README.md (Full Content):
 
-# 📦 Fullstack To-Do App — Dockerized
+# 📦 Fullstack To-Do list — Dockerized
 
 This project containerizes a 3-tier fullstack to-do list application using **Docker** and **Docker Compose**. It includes a Frontend (React), Backend (Node.js/Express), and MongoDB.
 
